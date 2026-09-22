@@ -53,7 +53,7 @@
 - if I make any changes in SRS, then don't correct them, leave them as is
 - Use "Divider" macros between each section to seperate content visually
 - Use "Info panel" macros with the "Customisations" title to specify any feature customisations (differences between coutries/user groups etc)
-- Keep consistency in wording. E.g. "I want to see a “Jinni” button in the header of the Skills Repo page that takes me to my Djinni dashboard" (here "X dashboard" is a clickable link that leads to https://x.co/my/dashboard/). Since X dashboard has already been mentioned, then there's no need in reprasing it in the next sentence like - "Then the browser navigates to https://x.co/my/dashboard/". It should be "Then the browser navigates to Djinni dashboard" (here "Djinni dashboard" is a clickable link that leads to https://x.co/my/dashboard/).  
+- Keep consistency in wording. E.g. "I want to see a “x” button in the header of the Skills Repo page that takes me to my x dashboard" (here "X dashboard" is a clickable link that leads to https://x.co/my/dashboard/). Since X dashboard has already been mentioned, then there's no need in reprasing it in the next sentence like - "Then the browser navigates to https://x.co/my/dashboard/". It should be "Then the browser navigates to x dashboard" (here "x dashboard" is a clickable link that leads to https://x.co/my/dashboard/).  
 
 4. Output: a Confluence pages in the target space. 
 
