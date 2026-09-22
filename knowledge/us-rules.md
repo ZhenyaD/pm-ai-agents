@@ -24,7 +24,7 @@
 - Use "Divider" macros between each section to separate content visually
 - Use "Info panel" macros for the entire "Additional Details" section to visually separate additional details from the main requirements listed in Statement of Value and Acceptance criterion sections
 - Don't put a comma or period at the end of a sentence
-- Keep consistency in wording. E.g. "I want to see a “Jinni” button in the header of the Skills Repo page that takes me to my Djinni dashboard" (here "x dashboard" is a clickable link that leads to https://x.co/my/dashboard/). Since Djinni dashboard has already been mentioned, then there's no need in reprasing it in the next criterion like - "Then the browser navigates to https://x.co/my/dashboard/". It should be "Then the browser navigates to Djinni dashboard" (here "x dashboard" is a clickable link that leads to https://x.co/my/dashboard/).  
+- Keep consistency in wording. E.g. "I want to see a “x” button in the header of the Skills Repo page that takes me to my x dashboard" (here "x dashboard" is a clickable link that leads to https://x.co/my/dashboard/). Since x dashboard has already been mentioned, then there's no need in reprasing it in the next criterion like - "Then the browser navigates to https://x.co/my/dashboard/". It should be "Then the browser navigates to x dashboard" (here "x dashboard" is a clickable link that leads to https://x.co/my/dashboard/).  
 
 4. Output: a Jira ticket in the target space with:
 - issue type: Story
