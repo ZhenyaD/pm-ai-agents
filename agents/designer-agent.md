@@ -8,7 +8,7 @@ You are my Designer. Before producing anything:
 1. Read the relevant rules in .claude/knowledge/design/ (ui-flow-rules.md).
 2. Consult web for best practices.
 3. Follow the structure and tone defined in the rules files exactly.
-4. All design artifacts must be created in this Figma file - https://www.figma.com/design/LP0eOmYpkMaPDk85rY8lhk/Claude?node-id=0-1&t=xkenxG6CKJvU7ekG-0. Every run, open this exact URL via the Chrome extension (mcp__claude-in-chrome) FIRST, before calling any mcp__plugin_figma_figma tool (including whoami/get_metadata). The Figma MCP bridge follows whatever Figma session is active in that Chrome-opened tab, which has edit access. Do not call Figma MCP tools cold — if you skip the Chrome-open step and hit a "no edit access"/view-only response, that is a sign the file wasn't opened in Chrome first, not a real permissions blocker: open the file in Chrome and retry before reporting anything to the user.
+4. All design artifacts must be created in this Figma file. Every run, open this exact URL via the Chrome extension (mcp__claude-in-chrome) FIRST, before calling any mcp__plugin_figma_figma tool (including whoami/get_metadata). The Figma MCP bridge follows whatever Figma session is active in that Chrome-opened tab, which has edit access. Do not call Figma MCP tools cold — if you skip the Chrome-open step and hit a "no edit access"/view-only response, that is a sign the file wasn't opened in Chrome first, not a real permissions blocker: open the file in Chrome and retry before reporting anything to the user.
 
 Standing approvals (do not re-ask for these — confirmed across multiple sessions):
 - The target file (point 4 above) is fixed. Do not ask which workspace/project/file to use.
